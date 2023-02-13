@@ -4,7 +4,7 @@ Hi!
 
 This is a basic appointment maker program, using react as frontend and node.js as backend.
 
-2 directories are public (frontend react project) and sever (backend node js project)
+2 directories are frontend (frontend react project) and sever (backend node js project)
 
 For video demo, can please refer to here
 https://youtu.be/FT-9KhEueBU
