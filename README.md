@@ -27,7 +27,7 @@ There are total 4 api available
   - BASE_URL/appointment/reschedule > for rescheduling customer appointmens
 
 To improve
-  - Implement a the api to reschedule an existing appointment at frontend. 
+  - Implement the reschedule api to reschedule an existing appointment on frontend. 
   - Implement a feature to let users add a scheduled appointment to their calendar.
   - Implement a feature to send email reminder one day before appointment.
 
