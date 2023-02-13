@@ -1,5 +1,5 @@
 # my-appointment-maker
-<img styles="height:200px">https://user-images.githubusercontent.com/108725098/218378364-80d26deb-64f8-4f34-ac41-2db88699c1b3.jpeg</img>
+<img styles="height:200px" src="https://user-images.githubusercontent.com/108725098/218378364-80d26deb-64f8-4f34-ac41-2db88699c1b3.jpeg"/>
 Hi! 
 
 This is a basic appointment maker program, using react as frontend and node.js as backend.
